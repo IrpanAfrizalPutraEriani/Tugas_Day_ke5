@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tugas_Day_ke5</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="konsumen">Masukkan Nama : </string>
+    <string name="platinum">Platinum</string>
+    <string name="Premium">Premium</string>
+    <string name="vip">Vip</string>
+    <string name="namakonsumen">Nama Pembeli</string>
+    <string name="irpan_afrizal_quiz_1">Irpan Afrizal Quiz 1</string>
+    <string name="jenis_kartu_membership">Jenis Kartu MemberShip :</string>
+    <string name="kode_barang">Kode Barang :</string>
+    <string name="masukkan_kode">Masukkan Kode</string>
+    <string name="jumlah_barang">Jumlah barang :</string>
+    <string name="masukkan_jumlah">Masukkan jumlah</string>
+    <string name="proses">PROSES</string>
+    <string name="terima_kasih_telah_belanja_di_toko_kami">Terima Kasih Telah Belanja Di toko kami !!👋👋</string>
+    <string name="harap_masukkan_kode_barang">Harap masukkan kode barang!</string>
+    <string name="kode_barang_tidak_valid">Kode barang tidak valid!</string>
+    <string name="transaksi_hari_ini">Transaksi Hari Ini :</string>
+    <string name="lenovo_v14_gen_3">Lenovo V14 Gen 3</string>
+    <string name="acer_aspire_5">Acer Aspire 5</string>
+    <string name="macbook_pro_m3">MACBOOK PRO M3</string>
+    <string name="nama_pembeli">Nama Pembeli:</string>
+    <string name="merek_barang">Merek Barang:</string>
+    <string name="harga_barang_satuan">Harga Barang Satuan:</string>
+    <string name="jumlah_barang_dibeli">Jumlah Barang Dibeli:</string>
+    <string name="total_harga">Total Harga:</string>
+    <string name="diskon_membership">Diskon MemberShip :</string>
+    <string name="diskon_harga">Diskon Harga :</string>
+    <string name="total_pembayaran">Total Pembayaran:</string>
+    <string name="rp">RP. </string>
+</resources>

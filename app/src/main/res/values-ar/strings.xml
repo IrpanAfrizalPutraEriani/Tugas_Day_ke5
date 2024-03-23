@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">مهام اليوم الخامس</string>
+    <string name="nama_pelanggan">اسم العميل</string>
+    <string name="konsumen"> أدخل الاسم : </string>
+    <string name="platinum">البلاتين</string>
+    <string name="Premium">غالي</string>
+    <string name="vip">كبار الشخصيات</string>
+    <string name="namakonsumen">اسم المشتري</string>
+    <string name="irpan_afrizal_quiz_1">مسابقة إيربان أفريزال 1 </string>
+    <string name="jenis_kartu_membership">نوع بطاقة العضوية: </string>
+    <string name="kode_barang">رمز الصنف : </string>
+    <string name="masukkan_kode">ادخل الرمز</string>
+    <string name="jumlah_barang">كمية البضاعة :</string>
+    <string name="masukkan_jumlah">أدخل المبلغ </string>
+    <string name="proses">عملية </string>
+    <string name="terima_kasih_telah_belanja_di_toko_kami">شكرا للتسوق في متجرنا!!👋👋 </string>
+    <string name="harap_masukkan_kode_barang">الرجاء إدخال رمز السلعة!</string>
+    <string name="kode_barang_tidak_valid">رمز السلعة غير صالح!</string>
+    <string name="transaksi_hari_ini">المعاملات اليومية :</string>
+    <string name="lenovo_v14_gen_3">لينوفو V14 جنرال 3</string>
+    <string name="acer_aspire_5">أيسر أسبير 5</string>
+    <string name="macbook_pro_m3">ماك بوك برو إم 3</string>
+    <string name="nama_pembeli">اسم العميل:</string>
+    <string name="merek_barang">علامة</string>
+    <string name="harga_barang_satuan">سعر السلعة للوحدة: </string>
+    <string name="jumlah_barang_dibeli">عدد العناصر المشتراة: </string>
+    <string name="total_harga">السعر الكلي:</string>
+    <string name="diskon_membership">خصم العضوية: </string>
+    <string name="diskon_harga">سعر الخصم: </string>
+    <string name="total_pembayaran">المبلغ الإجمالي: </string>
+    <string name="rp">RP. </string>
+</resources>
+
